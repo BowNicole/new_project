@@ -1,0 +1,50 @@
+Git Presentation
+flags (important)
+
+git config
+--list (current)
+--global (user.name/email to change/edit)
+
+git init
+
+git clone
+cd/mkdir<repolink>
+l- https://github.com/Luci-Fry/ML_API_model.git
+e- https://github.com/SireME/Machine-learning-price-prediction.git
+
+
+git status
+
+git add
+<.>
+<filename.ext><filename.ext>
+
+git commit
+1. edit in code editor
+2. -m
+<"commit message">
+
+git push
+<remote repo><branch>
+
+git branch
+<branchname> <SHA>
+
+git check out
+<branchtomoveto>
+-b
+<createbranchmove>
+
+git merge
+navigate to preferred branch, <branch>
+
+git pull
+<shortname> <branch>
+
+git log
+--oneline 
+--stat
+
+git reset
+--hard
+<SHA/REF^>
